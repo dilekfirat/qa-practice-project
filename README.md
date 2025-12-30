@@ -78,5 +78,5 @@ Test coverage was intentionally limited to representative scenarios to focus on 
 ---
 
 ## Author
-**Dilek Firat**  
+**BSc. Dilek Firat**  
 ISTQB Certified Software Tester
