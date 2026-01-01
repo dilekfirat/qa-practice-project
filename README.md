@@ -50,7 +50,7 @@ Each test case includes:
 ---
 
 ## Test Approach
-- Test cases are organized by **business functionality**, not UI location
+- Test cases are organized by business functionality
 - Both happy path and negative scenarios are covered
 - Focus is on realistic user behavior and risk-based testing
 - Exploratory testing ideas are considered but not fully executed in this phase
